@@ -1,0 +1,437 @@
+{
+  "layout": {
+    "contact-us": "Contact us",
+    "login": "Login"
+  },
+  "home": {
+    "title": "Hello world!"
+  },
+  "orders": {
+    "not-found": "No orders found",
+    "title": "My Orders",
+    "description": "Track and manage your orders",
+    "no-orders": "No orders found",
+    "order-id": "Order ID",
+    "search-placeholder": "Search by order ID or product...",
+    "order-status": "Order Status",
+    "payment-information": "Payment Information",
+    "on-delivery": "On Delivery",
+    "order-items": "Order Items",
+    "payment-method": "Payment Method",
+    "quantity": "Quantity",
+    "tabs": {
+      "all-orders": "All Orders",
+      "pending": "Pending",
+      "approved": "Approved",
+      "cancelled": "Cancelled",
+      "shipped": "Shipped",
+      "paid": "Paid",
+      "all-status": "All Status"
+    },
+    "statuses": {
+      "pending": "Pending",
+      "approved": "Approved",
+      "cancelled": "Cancelled",
+      "shipped": "Shipped",
+      "paid": "Paid",
+      "order-not-found": "Order not found"
+    },
+    "buttons": {
+      "back-to-orders": "Back to Orders",
+      "continue-shopping": "Continue Shopping"
+    }
+  },
+  "titles": {
+    "best-chefs": "Best Chefs",
+    "new-arrivals": "New Arrivals",
+    "all-products": "All Products"
+  },
+  "cards": {
+    "view": "View",
+    "add-to-cart": "Add to Cart"
+  },
+  "status": {
+    "pending": "Pending",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "delivered": "Delivered",
+    "online": "Online",
+    "offline": "Offline"
+  },
+  "common": {
+    "links": {
+      "home": "Home",
+      "chefs": "Chefs",
+      "new-arrivals": "New Arrivals",
+      "products": "All Products",
+      "login": "Login",
+      "orders": "Orders",
+      "view-all": "View All"
+    }
+  },
+  "auth": {
+    "shared": {
+      "email": "Email",
+      "password": "Password",
+      "confirm-password": "Confirm Password",
+      "name": "Name",
+      "phone": "Phone",
+      "back-button": "Back",
+      "unauthorized": "Unauthorized"
+    },
+    "login": {
+      "title": "Login to Your Account",
+      "login-with-google": "Login with Google",
+      "or": "OR",
+      "remember-me": "Remember me",
+      "forgot-password": "Forgot Password?",
+      "button": "Log in",
+      "no-account": "Don't have an account?",
+      "register": "Register"
+    },
+    "register": {
+      "title": "Register to Your Account",
+      "button": "Register",
+      "have-account": "Already have an account?",
+      "login": "Login"
+    },
+    "forgot-password": {
+      "title": "Email Verification",
+      "button": "Send Email Code"
+    },
+    "reset-password": {
+      "title": "Reset Password",
+      "button": "Reset"
+    },
+    "messages": {
+      "email-verification-toast": "Email sent successfully",
+      "password-reset-toast": "Password reset successfully",
+      "description": "Check your email",
+      "password-reset": "Password reset link sent to your email address",
+      "email-updated": "Email updated successfully",
+      "email-description": "Please check your email to verify your new email address.",
+      "password-updated": "Password updated successfully",
+      "profile-updated": "Profile updated successfully",
+      "profile-updated-successfully": "Your profile has been updated successfully.",
+      "signed-out-successfully": "Signed out successfully",
+      "error-signing-out": "Error signing out"
+    },
+    "profile": {
+      "sign-out": "Sign Out",
+      "update-profile": "Update Profile",
+      "email-verified": "Email verified",
+      "verify-email": "Email not verified"
+    }
+  },
+  "contact-us": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "back": "Back",
+    "send-message": "Send message",
+    "success-message": "Your message has been sent successfully.",
+    "success-message-description": "We will get back to you soon.",
+    "error-message": "Something went wrong. Please try again later."
+  },
+  "products": {
+    "labels": {
+      "email": "Email",
+      "quantity": "Quantity",
+      "address": "Address",
+      "comment": "Comment",
+      "rating": "Rating"
+    },
+    "feedback": {
+      "title": "Feedback",
+      "by": "By",
+      "add-feedback": "Add Feedback",
+      "write-feedback": "Write your feedback here",
+      "error-submitting-feedback": "Error submitting feedback:",
+      "submit-button": "Submit",
+      "reset-button": "Cancel"
+    },
+    "seller": "Seller",
+    "sales-info": "Sales Info",
+    "total-orders": "Total Orders",
+    "all-products": "All Products",
+    "page-not-found": "Page not found",
+    "filter": "Filter",
+    "buy-button": "Buy Now",
+    "buy-button-offline": "Chef is offline",
+    "chef-offline-toast": "Chef is offline",
+    "new-arrivals": "New Arrivals",
+    "no-products": "No products found"
+  },
+  "checkout": {
+    "common": {
+      "continue-shopping-button": "Continue Shopping"
+    },
+    "success": {
+      "title": "Order Successful!",
+      "description": "Thank you for your purchase. Your order has been successfully processed. You will receive a confirmation email shortly.",
+      "view-orders-button": "View Orders"
+    },
+    "cancelled": {
+      "title": "Order Cancelled!",
+      "description": "Your checkout process has been cancelled. If this was a mistake, you can always try again by returning to your shopping cart."
+    }
+  },
+  "chefs": {
+    "title": "Our Chefs",
+    "no-chefs": "No chefs found",
+    "view-profile": "View Profile",
+    "contact-information": "Contact Information",
+    "statistics": "Statistics",
+    "products": "Products",
+    "no-products": "No products available",
+    "rating": "Rating",
+    "total-orders": "Total Orders",
+    "card": {
+      "online": "Online",
+      "offline": "Offline"
+    }
+  },
+  "chefs-profile": {
+    "title": "Baity chef Dashboard",
+    "online": "Online",
+    "offline": "Offline",
+    "contact-us": "Contact Us",
+    "manage-subscription": "Manage Subscription",
+    "navigation": "Navigation",
+    "nav-dashboard": "Dashboard",
+    "products": "Products",
+    "orders": "Orders",
+    "price": "Price",
+    "dashboard": {
+      "title": "Dashboard",
+      "total-products": "Total Products",
+      "total-orders": "Total Orders",
+      "revenue": "Revenue",
+      "recent-orders": "Recent Orders",
+      "product-status": "Product Status",
+      "view-all": "View All",
+      "order-id": "Order ID",
+      "customer": "Customer",
+      "product": "Product",
+      "total": "Total",
+      "status": "Status",
+      "date": "Date",
+      "quantity": "Quantity",
+      "actions": "Actions"
+    },
+    "orders-page": {
+      "title": "My Orders",
+      "search-placeholder": "Search by product or customer...",
+      "no-orders-found": "No orders found",
+      "order-not-found": "Order not found",
+      "back-to-orders": "Back to Orders",
+      "placed-on": "Placed on",
+      "each": "each",
+      "order": "Order",
+      "order-details": "Order Details",
+      "subtotal": "Subtotal",
+      "tax": "Tax",
+      "customer-information": "Customer Information",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "Shipping Address": "Shipping Address"
+    },
+    "dropdown": {
+      "all-status": "All Status",
+      "approved": "Approved",
+      "paid": "Paid",
+      "pending": "Pending",
+      "cancelled": "Cancelled",
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "subscription": {
+      "title": "Chef Subscription Plans",
+      "description": "Choose a subscription plan that best fits your business needs. Upgrade or downgrade anytime.",
+      "recommended": "Recommended",
+      "subscribe-button": "Subscribe",
+      "selected": "Selected",
+      "selecte-plan": "Select Plan",
+      "cancel-subscription-button": "Cancel Subscription",
+      "your-subscription": "Your Subscription",
+      "subscription-description-p1": "You are subscribed to the",
+      "subscription-description-p2": "plan",
+      "features": {
+        "features-included-title": "Features included",
+        "chef-badge": "Chef badge",
+        "Advanced analytics": "Advanced analytics",
+        "priority-support": "Priority support",
+        "featured-products": "Featured products"
+      }
+    },
+    "Products-page": {
+      "title": "My Products",
+      "search-placeholder": "Search products...",
+      "add-new-product-button": "Add New Product",
+      "set-inactive": "Set Inactive",
+      "set-active": "Set Active",
+      "view-button": "View",
+      "edit-button": "Edit",
+      "created-on": "Created on",
+      "orders-received": "orders received",
+      "no-products": "No products found",
+      "product-not-found": "Product not found.",
+      "create-your-first-product-button": "Create Your First Product",
+      "back-button": "Back",
+      "more-images": "More Images"
+    },
+    "edit-product-page": {
+      "title": "Edit Product",
+      "product-name-label": "Product Name",
+      "description-label": "Description",
+      "price-label": "Price ($)",
+      "cancel-button": "Cancel",
+      "update-button": "Update Product"
+    },
+    "messages": {
+      "error": "Error",
+      "error-description": "Something went wrong.",
+      "order-approved": "Order approved",
+      "order-approved-description": "The order has been approved.",
+      "order-cancelled": "Order approved",
+      "order-cancelled-description": "The order has been approved.",
+      "updated-successfully": "Product updated successfully!"
+    }
+  },
+  "admin": {
+    "shared": {
+      "name": "Name",
+      "email": "Email"
+    },
+    "common": {
+      "loading": "Loading...",
+      "no-data-found": "No data found",
+      "failed-to-update": "Failed to update",
+      "actions": "Actions",
+      "view": "View",
+      "back": "Back",
+      "status": "Status",
+      "search": "Search"
+    },
+    "navigation": {
+      "dashboard": "Dashboard",
+      "users": "Users",
+      "orders": "Orders",
+      "products": "Products"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "overview": "Overview",
+      "stats": {
+        "total-products": "Total Products",
+        "total-orders": "Total Orders",
+        "total-users": "Total Users",
+        "revenue": "Revenue"
+      },
+      "total-products": "Total Products",
+      "total-orders": "Total Orders",
+      "total-users": "Total Users",
+      "revenue": "Revenue",
+      "charts": {
+        "monthly-orders": "Monthly Orders",
+        "product-status": "Product Status"
+      }
+    },
+    "products": {
+      "title": "Manage Products",
+      "table": {
+        "product-id": "Product ID",
+        "name": "Name",
+        "price": "Price",
+        "status": "Status",
+        "no-products": "No products found",
+        "select-status": "Select status"
+      },
+      "status": {
+        "active": "Active",
+        "inactive": "Inactive",
+        "pending": "Pending",
+        "rejected": "Rejected",
+        "online": "Online",
+        "offline": "Offline",
+        "updated": "Status updated successfully"
+      },
+      "search": {
+        "placeholder": "Search by product ID or name..."
+      }
+    },
+    "orders": {
+      "title": "Manage Orders",
+      "table": {
+        "order-id": "Order ID",
+        "user": "User",
+        "product": "Product",
+        "quantity": "Quantity",
+        "total": "Total",
+        "status": "Status",
+        "no-orders": "No orders found",
+        "select-status": "Select status",
+        "date": "Date",
+        "count": "Count",
+        "customer": "Customer",
+        "amount": "Amount"
+      },
+      "status": {
+        "pending": "Pending",
+        "paid": "Paid",
+        "approved": "Approved",
+        "shipped": "Shipped",
+        "cancelled": "Cancelled",
+        "order-not-found": "Order not found"
+      },
+      "search": {
+        "placeholder": "Search by order ID, user or product..."
+      },
+      "details": {
+        "title": "Order #{id}",
+        "placedOn": "Placed on",
+        "at": "at",
+        "order-details": "Order Details",
+        "customer-info": "Customer Information",
+        "back-to-orders": "Back to Orders",
+        "quantity": "Quantity",
+        "each": "each",
+        "subtotal": "Subtotal",
+        "tax": "Tax",
+        "total": "Total",
+        "customer": {
+          "name": "Name",
+          "email": "Email",
+          "phone": "Phone",
+          "shipping-address": "Shipping Address"
+        }
+      }
+    },
+    "users": {
+      "title": "Manage Users",
+      "search": {
+        "placeholder": "Search by name or email..."
+      },
+      "roles": {
+        "user": "User",
+        "admin": "Admin",
+        "chef": "Chef"
+      },
+      "new-users": "New Users",
+      "returning-users": "Returning Users",
+      "inactive-users": "Inactive Users",
+      "total-users": "Total Users",
+      "active-users": "Active Users",
+      "new-users-month": "New Users This Month",
+      "of-total-users": "of total users",
+      "distribution": "User Distribution",
+      "recent-users": "Recent Users",
+      "status": {
+        "active": "Active",
+        "inactive": "Inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "layout": {
+    "contact-us": "اتصل بنا",
+    "login": "تسجيل الدخول"
+  },
+  "home": {
+    "title": "مرحباً بالعالم!"
+  },
+  "orders": {
+    "not-found": "لم يتم العثور على طلبات",
+    "title": "طلباتي",
+    "description": "تتبع وإدارة طلباتك",
+    "no-orders": "لم يتم العثور على طلبات",
+    "order-id": "رقم الطلب",
+    "search-placeholder": "ابحث برقم الطلب أو المنتج...",
+    "order-status": "حالة الطلب",
+    "payment-information": "معلومات الدفع",
+    "on-delivery": "عند التوصيل",
+    "order-items": "عناصر الطلب",
+    "payment-method": "طريقة الدفع",
+    "quantity": "الكمية",
+    "tabs": {
+      "all-orders": "جميع الطلبات",
+      "pending": "قيد الانتظار",
+      "approved": "تمت الموافقة",
+      "cancelled": "ملغاة",
+      "shipped": "تم الشحن",
+      "paid": "مدفوع",
+      "all-status": "جميع الحالات"
+    },
+    "statuses": {
+      "pending": "قيد الانتظار",
+      "approved": "تمت الموافقة",
+      "cancelled": "ملغاة",
+      "shipped": "تم الشحن",
+      "paid": "مدفوع",
+      "order-not-found": "لم يتم العثور على الطلب"
+    },
+    "buttons": {
+      "back-to-orders": "العودة إلى الطلبات",
+      "continue-shopping": "متابعة التسوق"
+    }
+  },
+  "titles": {
+    "best-chefs": "أفضل الطهاة",
+    "new-arrivals": "الوافدون الجدد",
+    "all-products": "جميع المنتجات"
+  },
+  "cards": {
+    "view": "عرض",
+    "add-to-cart": "إضافة إلى السلة"
+  },
+  "status": {
+    "pending": "قيد الانتظار",
+    "completed": "مكتمل",
+    "cancelled": "ملغاة",
+    "delivered": "تم التوصيل",
+    "online": "متصل",
+    "offline": "غير متصل"
+  },
+  "common": {
+    "links": {
+      "home": "الرئيسية",
+      "chefs": "الطهاة",
+      "new-arrivals": "الوافدون الجدد",
+      "products": "جميع المنتجات",
+      "login": "تسجيل الدخول",
+      "orders": "الطلبات",
+      "view-all": "عرض الكل"
+    }
+  },
+  "auth": {
+    "shared": {
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirm-password": "تأكيد كلمة المرور",
+      "name": "الاسم",
+      "phone": "الهاتف",
+      "back-button": "رجوع",
+      "unauthorized": "غير مصرح"
+    },
+    "login": {
+      "title": "تسجيل الدخول إلى حسابك",
+      "login-with-google": "تسجيل الدخول باستخدام جوجل",
+      "or": "أو",
+      "remember-me": "تذكرني",
+      "forgot-password": "هل نسيت كلمة المرور؟",
+      "button": "تسجيل الدخول",
+      "no-account": "ليس لديك حساب؟",
+      "register": "تسجيل"
+    },
+    "register": {
+      "title": "إنشاء حساب جديد",
+      "button": "تسجيل",
+      "have-account": "لديك حساب بالفعل؟",
+      "login": "تسجيل الدخول"
+    },
+    "forgot-password": {
+      "title": "التحقق من البريد الإلكتروني",
+      "button": "إرسال رمز البريد الإلكتروني"
+    },
+    "reset-password": {
+      "title": "إعادة تعيين كلمة المرور",
+      "button": "إعادة تعيين"
+    },
+    "messages": {
+      "email-verification-toast": "تم إرسال البريد الإلكتروني بنجاح",
+      "password-reset-toast": "تم إعادة تعيين كلمة المرور بنجاح",
+      "description": "تحقق من بريدك الإلكتروني",
+      "password-reset": "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني",
+      "email-updated": "تم تحديث البريد الإلكتروني بنجاح",
+      "email-description": "يرجى التحقق من بريدك الإلكتروني لتأكيد عنوان بريدك الإلكتروني الجديد.",
+      "password-updated": "تم تحديث كلمة المرور بنجاح",
+      "profile-updated": "تم تحديث الملف الشخصي بنجاح",
+      "profile-updated-successfully": "تم تحديث ملفك الشخصي بنجاح.",
+      "signed-out-successfully": "تم تسجيل الخروج بنجاح",
+      "error-signing-out": "خطأ أثناء تسجيل الخروج"
+    },
+    "profile": {
+      "sign-out": "تسجيل الخروج",
+      "update-profile": "تحديث الملف الشخصي",
+      "email-verified": "تم التحقق من البريد الإلكتروني",
+      "verify-email": "لم يتم التحقق من البريد الإلكتروني"
+    }
+  },
+  "contact-us": {
+    "title": "اتصل بنا",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "message": "الرسالة",
+    "back": "رجوع",
+    "send-message": "إرسال الرسالة",
+    "success-message": "تم إرسال رسالتك بنجاح.",
+    "success-message-description": "سنتواصل معك قريباً.",
+    "error-message": "حدث خطأ. يرجى المحاولة مرة أخرى لاحقاً."
+  },
+  "products": {
+    "labels": {
+      "email": "البريد الإلكتروني",
+      "quantity": "الكمية",
+      "address": "العنوان",
+      "comment": "التعليق",
+      "rating": "التقييم"
+    },
+    "feedback": {
+      "title": "التعليقات",
+      "by": "بواسطة",
+      "add-feedback": "إضافة تعليق",
+      "write-feedback": "اكتب تعليقك هنا",
+      "error-submitting-feedback": "خطأ أثناء إرسال التعليق:",
+      "submit-button": "إرسال",
+      "reset-button": "إلغاء"
+    },
+    "seller": "البائع",
+    "sales-info": "معلومات المبيعات",
+    "total-orders": "إجمالي الطلبات",
+    "all-products": "جميع المنتجات",
+    "page-not-found": "الصفحة غير موجودة",
+    "filter": "تصفية",
+    "buy-button": "اشترِ الآن",
+    "buy-button-offline": "الطاهي غير متصل",
+    "chef-offline-toast": "الطاهي غير متصل",
+    "new-arrivals": "الوافدون الجدد",
+    "no-products": "لم يتم العثور على منتجات"
+  },
+  "checkout": {
+    "common": {
+      "continue-shopping-button": "متابعة التسوق"
+    },
+    "success": {
+      "title": "تم الطلب بنجاح!",
+      "description": "شكراً لشرائك. تمت معالجة طلبك بنجاح. ستتلقى بريدًا إلكترونيًا للتأكيد قريباً.",
+      "view-orders-button": "عرض الطلبات"
+    },
+    "cancelled": {
+      "title": "تم إلغاء الطلب!",
+      "description": "تم إلغاء عملية الدفع. إ27 إذا كانت هذه خطأ، يمكنك دائمًا العودة إلى سلة التسوق والمحاولة مرة أخرى."
+    }
+  },
+  "chefs": {
+    "title": "طهاتنا",
+    "no-chefs": "لم يتم العثور على طهاة",
+    "view-profile": "عرض الملف الشخصي",
+    "contact-information": "معلومات الاتصال",
+    "statistics": "الإحصائيات",
+    "products": "المنتجات",
+    "no-products": "لا توجد منتجات متاحة",
+    "rating": "التقييم",
+    "total-orders": "إجمالي الطلبات",
+    "card": {
+      "online": "متصل",
+      "offline": "غير متصل"
+    }
+  },
+  "chefs-profile": {
+    "title": "لوحة تحكم طاهي بيتي",
+    "online": "متصل",
+    "offline": "غير متصل",
+    "contact-us": "اتصل بنا",
+    "manage-subscription": "إدارة الاشتراك",
+    "navigation": "التنقل",
+    "nav-dashboard": "لوحة التحكم",
+    "products": "المنتجات",
+    "orders": "الطلبات",
+    "price": "السعر",
+    "dashboard": {
+      "title": "لوحة التحكم",
+      "total-products": "إجمالي المنتجات",
+      "total-orders": "إجمالي الطلبات",
+      "revenue": "الإيرادات",
+      "recent-orders": "الطلبات الأخيرة",
+      "product-status": "حالة المنتج",
+      "view-all": "عرض الكل",
+      "order-id": "رقم الطلب",
+      "customer": "العميل",
+      "product": "المنتج",
+      "total": "الإجمالي",
+      "status": "الحالة",
+      "date": "التاريخ",
+      "quantity": "الكمية",
+      "actions": "الإجراءات"
+    },
+    "orders-page": {
+      "title": "طلباتي",
+      "search-placeholder": "ابحث بالمنتج أو العميل...",
+      "no-orders-found": "لم يتم العثور على طلبات",
+      "order-not-found": "لم يتم العثور على الطلب",
+      "back-to-orders": "العودة إلى الطلبات",
+      "placed-on": "تم الطلب في",
+      "each": "لكل",
+      "order": "الطلب",
+      "order-details": "تفاصيل الطلب",
+      "subtotal": "المجموع الفرعي",
+      "tax": "الضريبة",
+      "customer-information": "معلومات العميل",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف",
+      "Shipping Address": "عنوان الشحن"
+    },
+    "dropdown": {
+      "all-status": "جميع الحالات",
+      "approved": "تمت الموافقة",
+      "paid": "مدفوع",
+      "pending": "قيد الانتظار",
+      "cancelled": "ملغاة",
+      "active": "نشط",
+      "inactive": "غير نشط"
+    },
+    "subscription": {
+      "title": "خطط اشتراك الطهاة",
+      "description": "اختر خطة اشتراك تناسب احتياجات عملك. يمكنك الترقية أو التخفيض في أي وقت.",
+      "recommended": "موصى به",
+      "subscribe-button": "اشترك",
+      "selected": "تم الاختيار",
+      "selecte-plan": "اختر الخطة",
+      "cancel-subscription-button": "إلغاء الاشتراك",
+      "your-subscription": "اشتراكك",
+      "subscription-description-p1": "أنت مشترك في",
+      "subscription-description-p2": "الخطة",
+      "features": {
+        "features-included-title": "الميزات المضمنة",
+        "chef-badge": "شارة الطاهي",
+        "Advanced analytics": "تحليلات متقدمة",
+        "priority-support": "دعم الأولوية",
+        "featured-products": "المنتجات المميزة"
+      }
+    },
+    "Products-page": {
+      "title": "منتجاتي",
+      "search-placeholder": "ابحث في المنتجات...",
+      "add-new-product-button": "إضافة منتج جديد",
+      "set-inactive": "تعيين كغير نشط",
+      "set-active": "تعيين كنشط",
+      "view-button": "عرض",
+      "edit-button": "تعديل",
+      "created-on": "تم الإنشاء في",
+      "orders-received": "الطلبات المستلمة",
+      "no-products": "لم يتم العثور على منتجات",
+      "product-not-found": "لم يتم العثور على المنتج.",
+      "create-your-first-product-button": "إنشاء منتجك الأول",
+      "back-button": "رجوع",
+      "more-images": "صور إضافية"
+    },
+    "edit-product-page": {
+      "title": "تعديل المنتج",
+      "product-name-label": "اسم المنتج",
+      "description-label": "الوصف",
+      "price-label": "السعر ($)",
+      "cancel-button": "إلغاء",
+      "update-button": "تحديث المنتج"
+    },
+    "messages": {
+      "error": "خطأ",
+      "error-description": "حدث خطأ ما.",
+      "order-approved": "تمت الموافقة على الطلب",
+      "order-approved-description": "تمت الموافقة على الطلب.",
+      "order-cancelled": "تم إلغاء الطلب",
+      "order-cancelled-description": "تم إلغاء الطلب.",
+      "updated-successfully": "تم تحديث المنتج بنجاح!"
+    }
+  },
+  "admin": {
+    "shared": {
+      "name": "الاسم",
+      "email": "البريد الإلكتروني"
+    },
+    "common": {
+      "loading": "جارٍ التحميل...",
+      "no-data-found": "لم يتم العثور على بيانات",
+      "failed-to-update": "فشل التحديث",
+      "actions": "الإجراءات",
+      "view": "عرض",
+      "back": "رجوع",
+      "status": "الحالة",
+      "search": "بحث"
+    },
+    "navigation": {
+      "dashboard": "لوحة التحكم",
+      "users": "المستخدمون",
+      "orders": "الطلبات",
+      "products": "المنتجات"
+    },
+    "dashboard": {
+      "title": "لوحة التحكم",
+      "overview": "نظرة عامة",
+      "stats": {
+        "total-products": "إجمالي المنتجات",
+        "total-orders": "إجمالي الطلبات",
+        "total-users": "إجمالي المستخدمين",
+        "revenue": "الإيرادات"
+      },
+      "total-products": "إجمالي المنتجات",
+      "total-orders": "إجمالي الطلبات",
+      "total-users": "إجمالي المستخدمين",
+      "revenue": "الإيرادات",
+      "charts": {
+        "monthly-orders": "الطلبات الشهرية",
+        "product-status": "حالة المنتج"
+      }
+    },
+    "products": {
+      "title": "إدارة المنتجات",
+      "table": {
+        "product-id": "رقم المنتج",
+        "name": "الاسم",
+        "price": "السعر",
+        "status": "الحالة",
+        "no-products": "لم يتم العثور على منتجات",
+        "select-status": "اختر الحالة"
+      },
+      "status": {
+        "active": "نشط",
+        "inactive": "غير نشط",
+        "pending": "قيد الانتظار",
+        "rejected": "مرفوض",
+        "online": "متصل",
+        "offline": "غير متصل",
+        "updated": "تم تحديث الحالة بنجاح"
+      },
+      "search": {
+        "placeholder": "ابحث برقم المنتج أو الاسم..."
+      }
+    },
+    "orders": {
+      "title": "إدارة الطلبات",
+      "table": {
+        "order-id": "رقم الطلب",
+        "user": "المستخدم",
+        "product": "المنتج",
+        "quantity": "الكمية",
+        "total": "الإجمالي",
+        "status": "الحالة",
+        "no-orders": "لم يتم العثور على طلبات",
+        "select-status": "اختر الحالة",
+        "date": "التاريخ",
+        "count": "العدد",
+        "customer": "العميل",
+        "amount": "المبلغ"
+      },
+      "status": {
+        "pending": "قيد الانتظار",
+        "paid": "مدفوع",
+        "approved": "تمت الموافقة",
+        "shipped": "تم الشحن",
+        "cancelled": "ملغاة",
+        "order-not-found": "لم يتم العثور على الطلب"
+      },
+      "search": {
+        "placeholder": "ابحث برقم الطلب أو المستخدم أو المنتج..."
+      },
+      "details": {
+        "title": "الطلب #{id}",
+        "placedOn": "تم الطلب في",
+        "at": "في",
+        "order-details": "تفاصيل الطلب",
+        "customer-info": "معلومات العميل",
+        "back-to-orders": "العودة إلى الطلبات",
+        "quantity": "الكمية",
+        "each": "لكل",
+        "subtotal": "المجموع الفرعي",
+        "tax": "الضريبة",
+        "total": "الإجمالي",
+        "customer": {
+          "name": "الاسم",
+          "email": "البريد الإلكتروني",
+          "phone": "الهاتف",
+          "shipping-address": "عنوان الشحن"
+        }
+      }
+    },
+    "users": {
+      "title": "إدارة المستخدمين",
+      "search": {
+        "placeholder": "ابحث بالاسم أو البريد الإلكتروني..."
+      },
+      "roles": {
+        "user": "مستخدم",
+        "admin": "مدير",
+        "chef": "طاهٍ"
+      },
+      "new-users": "مستخدمون جدد",
+      "returning-users": "مستخدمون عائدون",
+      "inactive-users": "مستخدمون غير نشطين",
+      "total-users": "إجمالي المستخدمين",
+      "active-users": "مستخدمون نشطون",
+      "new-users-month": "مستخدمون جدد هذا الشهر",
+      "of-total-users": "من إجمالي المستخدمين",
+      "distribution": "توزيع المستخدمين",
+      "recent-users": "المستخدمون الأخيرون",
+      "status": {
+        "active": "نشط",
+        "inactive": "غير نشط"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://baity.vercel.app/</loc>
+  <lastmod>2025-05-03T16:02:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://baity.vercel.app/auth/login</loc>
+  <lastmod>2025-05-03T16:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baity.vercel.app/chefs</loc>
+  <lastmod>2025-05-03T16:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baity.vercel.app/products/new-arrival</loc>
+  <lastmod>2025-05-03T16:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baity.vercel.app/products</loc>
+  <lastmod>2025-05-03T16:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baity.vercel.app/chefs/087b84b2-5146-43a5-90f1-c292440642c5</loc>
+  <lastmod>2025-05-03T16:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baity.vercel.app/products/905a7d9d-6365-4045-a862-bab031126440</loc>
+  <lastmod>2025-05-03T16:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://baity.vercel.app/auth/email-verification?query=forgot-password</loc>
+  <lastmod>2025-05-03T16:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://baity.vercel.app/auth/register</loc>
+  <lastmod>2025-05-03T16:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
